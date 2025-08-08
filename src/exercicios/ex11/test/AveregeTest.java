@@ -17,7 +17,7 @@ public class AveregeTest {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Digite o nome do aluno: ");
-        String name = input.next();
+        String name = input.nextLine();
         System.out.println("Digite a primeira nota:");
         double value1 = Double.parseDouble(input.next());
         System.out.println("Digite a segunda nota:");
