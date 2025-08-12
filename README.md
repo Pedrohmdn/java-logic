@@ -1,3 +1,3 @@
 # Java-Logic
-Lista de exercicios para praticar lógica de programação com Java
+Lista de exercícios para praticar lógica de programação com Java
 <hr>
