@@ -1,6 +1,6 @@
 package exercicios.ex18.test;
 
-public class Tabuada {
+public class TabuadaTest {
 
     // Faça um algoritmo que imprima na tela a tabuada de 1 até 10.
 
